@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Minki Kim
+# Minki Kim
 
 **Digital Design & Verification Engineer**
 
