@@ -53,8 +53,14 @@ FPGA 기반 디지털 시스템 설계 · RISC-V 프로세서 아키텍처 · AM
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**RISC-V Multi-Cycle RV32I**](https://github.com/MINKI-2687/RISC-V-Multi-cycle-RV32I) | Multi-Cycle 프로세서 설계 (R/I/S/B/U/J-Type 명령어, APB 버스, GPIO/FND/UART 제어) | SystemVerilog, Vivado |
-| [**AXI4-Lite SPI UVM Verification**](https://github.com/MINKI-2687/AXI4_Lite_SPI_UVM_Verification) | AXI4-Lite 기반 SPI 통신 모듈 설계 및 UVM 검증 환경 구축 | SystemVerilog, UVM, Vivado |
+| [**Vision AI Unmanned Kiosk**](https://github.com/MINKI-2687/Vision-AI-Unmanned-Kiosk) | Vision AI 기반 실시간 객체 인식 및 무인 키오스크 시스템 | Python, YOLOv5, TensorRT |
+| [**RISC-V Multi-Cycle RV32I**](https://github.com/MINKI-2687/RISC-V-Multi-cycle-RV32I) | Multi-Cycle 프로세서 설계 (R/I/S/B/U/J-Type 명령어, APB 버스, 주변장치 연동) | SystemVerilog, Vivado |
+| [**RISC-V Single-Cycle RV32I**](https://github.com/MINKI-2687/RISC-V-Single-Cycle-RV32I) | RISC-V RV32I 기반 Single-Cycle CPU 설계 및 검증 | SystemVerilog, Vivado |
+| [**AXI4-Lite SPI UVM Verification**](https://github.com/MINKI-2687/AXI4_Lite_SPI_UVM_Verification) | AXI4-Lite 기반 SPI 통신 모듈 설계 및 UVM 검증 환경 구축 | SystemVerilog, UVM |
+| [**SPI & I2C Protocol IP Design**](https://github.com/MINKI-2687/SPI-I2C-Protocol-IP-Design) | SPI/I2C 직렬 통신 프로토콜 IP 설계 및 테스트벤치 검증 | SystemVerilog, Vivado |
+| [**UBUS Protocol UVM Testbench**](https://github.com/MINKI-2687/UBUS-UVM-Testbench) | UBUS Protocol 1:1 Master-Slave UVM 테스트벤치 설계 및 기능 커버리지 100% | SystemVerilog, UVM |
+| [**Watch & Stopwatch SV OOP Verification**](https://github.com/MINKI-2687/Watch-Stopwatch-SV-OOP-Verification) | Watch, Stopwatch IP 대상 SystemVerilog OOP 기반 단위 검증 | Verilog, SystemVerilog |
+| [**FPGA Digital Watch Sensor System**](https://github.com/MINKI-2687/FPGA-Digital-Watch-Sensor-System) | FPGA 기반 통합 디지털 시계 및 센서(초음파, 온습도) 제어 시스템 설계 | Verilog, Vivado |
 ---
 
 ## 📊 GitHub Stats
