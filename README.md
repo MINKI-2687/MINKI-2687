@@ -2,7 +2,14 @@
 
 # ⚡ Minki Kim
 
-**Digital Design Engineer**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0079C1&center=true&vCenter=true&width=500&lines=Digital+Design+Engineer;FPGA+%26+RISC-V+CPU+Designer" alt="Typing SVG" /></a>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MINKI-2687.MINKI-2687)
+
+<a href="mailto:rlaalrl00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MINKI-2687"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br>
 
 FPGA 기반 디지털 시스템 설계 · RISC-V 프로세서 구현 · 통신 프로토콜 · 영상처리 파이프라인
 
@@ -66,8 +73,12 @@ FPGA 기반 디지털 시스템 설계 · RISC-V 프로세서 구현 · 통신 �
 ---
 
 
+## 🐍 Contribution Snake
+
 <div align="center">
-
-📫 **rlaalrl00@gmail.com**
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MINKI-2687/MINKI-2687/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MINKI-2687/MINKI-2687/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MINKI-2687/MINKI-2687/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
